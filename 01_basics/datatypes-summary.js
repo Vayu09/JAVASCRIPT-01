@@ -13,7 +13,7 @@ const outsideTemp = null
 const id = Symbol('123')
 const anotherId = Symbol('123')
 
-console.log(id === anotherId);
+//console.log(id === anotherId);
 
 // for  big int put (n)in last
 
